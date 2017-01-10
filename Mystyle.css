@@ -1,0 +1,106 @@
+body.index {
+  background: url("muaythai.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.taekwondo {
+  background: url("taekwondo.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.karate {
+  background: url("karate.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.kickboksen {
+  background: url("kickboks.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.muaythai {
+  background: url("muayboran.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.judo {
+  background: url("judo3.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body.informatie {
+  background: url("informatie.jpg")
+  no-repeat center center fixed;
+  background-size: 100% 100%;
+}
+
+body {
+  color: #fff;
+}
+
+h1 {
+  color: red;
+  margin-left: 20px;
+}
+
+div.alinea {
+  margin: 25px;
+}
+
+span.keywords {
+  color: #3399ff;
+}
+
+nav.menubar > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+}
+
+nav.menubar > ul > a > li {
+  display: inline-block;
+  padding: 15px;
+  color: cyan;
+  border: 2px solid white;
+}
+
+nav.menubar > ul > a > li:hover {
+  background-color: rgba(255, 0, 0, 0.7);
+  text-decoration: underline;
+}
+
+nav.informatie {
+  float: right;
+  border: 2px solid white;
+}
+
+nav.informatie > a > li {
+  color: cyan;
+  padding: 15px;
+}
+
+nav.informatie > a > li:hover {
+  background-color: rgba(255, 0, 0, 0.6);
+  text-decoration: underline;
+}
+
+a.link {
+  color: red;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a.active {
+  background-color: rgba(255, 0, 0, 0.3);
+  display: inline-block;
+}
